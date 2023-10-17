@@ -29,9 +29,6 @@ Server;/Conhecimento em Linux e Windows avançado
 
 
 ### Technology lover, constantly evolving.
-META = Back-End Development
-
-> META = Front-End Development
 
 ### Time does not stop!
 
