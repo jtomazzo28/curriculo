@@ -15,7 +15,7 @@ CI/CD tools;/Knowledge of monitoring tools and
 observability;/Knowledge in deploying Web and Client applications
 Server;/Advanced knowledge of Linux and Windows
 
-Olá Mundo!!
+
 Sou Jorge Tomaz,  Profissional com mais de 20 anos de experiência na área de informática, 
 graduado em Administração de Empresas e com especialização em Engenharia de 
 Software. Minha trajetória inclui um foco específico na área bancária, com destaque 
