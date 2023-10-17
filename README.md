@@ -28,8 +28,8 @@ observability;/Conhecimento em deploy de aplicações Web e Cliente
 Server;/Conhecimento em Linux e Windows avançado
 
 
-### Technology lover, constantly evolving.
+### 
 
-### Time does not stop!
+### 
 
 </div>
