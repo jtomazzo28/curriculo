@@ -3,7 +3,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div><br/>
 
-### Hello World!!
+###
 I'm Jorge Tomaz, Professional with over 20 years of experience in the IT field,
 degree in Business Administration and with a specialization in Engineering
 Software. My career includes a specific focus on the banking area, with emphasis on
